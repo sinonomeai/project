@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "role": "admin",
+      "createdAt": "2026-02-015T12:00:00Z",
+      "favourCities": [
+        {
+          "id": "beijing",
+          "name": "北京",
+          "country": "中国",
+          "addedAt": "2026-02-20T10:30:00Z"
+        },
+        {
+          "id": "shanghai",
+          "name": "上海",
+          "country": "中国",
+          "addedAt": "2026-02-21T14:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "username": "sinonomeai",
+      "password": "7355608",
+      "role": "user",
+      "createdAt": "2026-02-015T12:00:00Z",
+      "favourCities": []
+    },
+    {
+      "id": "1771347240235",
+      "username": "yustkina",
+      "password": "7355608",
+      "role": "user",
+      "createdAt": "2026-02-17T16:54:00.235Z",
+      "favourCities": [
+        {
+          "id": "101010100",
+          "name": "北京",
+          "country": "中国",
+          "addedAt": "2026-02-24T15:28:43.385Z"
+        },
+        {
+          "id": "101190101",
+          "name": "南京",
+          "country": "中国",
+          "addedAt": "2026-02-24T15:32:34.712Z"
+        },
+        {
+          "id": "65E77",
+          "name": "東京",
+          "country": "日本",
+          "addedAt": "2026-02-24T16:18:58.797Z"
+        },
+        {
+          "id": "1E98E",
+          "name": "New York",
+          "country": "United States",
+          "addedAt": "2026-02-24T16:19:14.537Z"
+        },
+        {
+          "id": "101020100",
+          "name": "上海",
+          "country": "中国",
+          "addedAt": "2026-02-24T16:19:29.489Z"
+        },
+        {
+          "id": "101040100",
+          "name": "重庆",
+          "country": "中国",
+          "addedAt": "2026-02-24T16:27:50.803Z"
+        }
+      ]
+    },
+    {
+      "id": "1771404072338",
+      "username": "123456",
+      "password": "123456",
+      "role": "user",
+      "createdAt": "2026-02-18T08:41:12.338Z",
+      "favourCities": []
+    }
+  ]
+}
