@@ -12,7 +12,7 @@
 
 - **Tailwind CSS **
 - **Ant Design**
-- **qweather-icons**
+- **qweather-icons(和风天气图标)**
 
 ### 状态管理与路由
 
@@ -31,6 +31,10 @@
 ### 后端模拟
 
 - **JSON Server**
+
+## 使用
+1. 打开根目录在终端输入 npm run server 启动 JSON Serve(weatherSearch/mock/db.json)
+2. 接着输入 (pnpm dev)/(npm run dev) + o + enter打开浏览器页面
 
 ## 核心功能
 
@@ -54,6 +58,10 @@
 + 刷新按钮
 + 管理员页面
 + 图标动态变化
++ 中英切换
++ 主题切换
++ 定位功能
++ 页面平滑切换
 
 
 
@@ -66,7 +74,9 @@ https://github.com/feliz2077165361-rgb/WeatherSystem-School_Project.git
 + 项目结构该如何优化
 + 状态该如何高效管理
 + 什么时候该提取通用组件
-+ Canvas  与 Chart.js       的学习
++ 利用usememo等提高性能
++ 类型安全检查
++ Canvas 与 Chart.js 的学习
 + tailwind 与 Ant Design 的学习
 
 
